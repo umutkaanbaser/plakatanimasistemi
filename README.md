@@ -22,7 +22,7 @@ pip install scikit-learn
 
 # Kazanımlar | Gains
 
-bu projede sizler görüntü işleme işleminin temeline gireceksiniz ve resimlerde plakaların bulunması için görseli hangi aşamalardan geçirdiğimizi detaylı bir şekilde anlamış ve kavramış olacaksınız.
-OCR (optik karakter tespiti) işleminin ne olduğunu ve resimlerden karakterlerin nasıl seçilip sınıflandırıldığını görebileceksiniz.
-Python Nesne tabanlı programlama için geliştirme yapmış olacaksınız.
-Opencv, skitic-learn, numpy ve matplotlib modullerini kullanmakta tecrube kazanacaksınız.
+bu projede sizler görüntü işleme işleminin temeline gireceksiniz ve resimlerde plakaların bulunması için görseli hangi aşamalardan geçirdiğimizi detaylı bir şekilde anlamış ve kavramış olacaksınız. <br>
+OCR (optik karakter tespiti) işleminin ne olduğunu ve resimlerden karakterlerin nasıl seçilip sınıflandırıldığını görebileceksiniz.<br>
+Python Nesne tabanlı programlama için geliştirme yapmış olacaksınız.<br>
+Opencv, skitic-learn, numpy ve matplotlib modullerini kullanmakta tecrube kazanacaksınız.<br>
